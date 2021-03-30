@@ -161,7 +161,7 @@ p{
 
         #firstDivOfOutput1{
             width:98%;
-            min-height: 100px;
+            min-height: 70px;
             background-color: cyan;
             margin-left: 1%;
             background-image: url("images/tileable_wood_texture.png");
@@ -201,7 +201,7 @@ p{
     background-size: cover;
     display: flex;
     justify-content: center;
-    padding-top: 5%;
+    padding-top: 1%;
     padding-bottom: 1%;
    
 
