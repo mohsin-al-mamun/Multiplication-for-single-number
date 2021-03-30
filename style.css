@@ -143,9 +143,9 @@ p{
 }
 
     #analyze{
-        width: 100px;
+        width: 200px;
         height: 50px;
-        margin-left: 30%;
+        margin-left: 40%;
         background-color: rgb(101, 160, 6);
         color:white;
         font-size: 15px;
@@ -155,7 +155,7 @@ p{
 
 #outputSection1{
     display:block;
-    margin-top: 3%;
+    margin-top: 1%;
    
 }
 
@@ -177,7 +177,7 @@ p{
 
         #secondDivOfOutput1{
             width:98%;
-            min-height: 100px;
+            min-height: 120px;
             background-color: cyan;
             margin-left: 1%;
             background-image: url("images/tileable_wood_texture.png");
@@ -185,7 +185,8 @@ p{
             text-align: center;
             display: flex;
             justify-content: center;
-            padding-top: 2%;
+            padding-top: 0%;
+            margin-bottom: 5px;
            
         }       
 
@@ -199,10 +200,18 @@ p{
     background-image: url("images/wallpapersden.com_pubg-key-art_1920x1080.jpg");
     background-size: cover;
     display: flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    padding-top: 5%;
+    padding-bottom: 1%;
+   
+
     
 }
+
+
+
+
+
         /* #caption{
             width: 300px;
             height: 100px;
@@ -211,21 +220,24 @@ p{
            /* margin-bottom: 40%;
            text-align: center;
            color: white;
-        } */ */
+        } */ 
 
-        #tableDiv{
+        /* #tableDiv{
             width: 80%;
             height: 300px;
-            margin-top: 2%;
+            margin-top: 2%; */
             /* background-color: cyan; */
-            color:black;
+            /* color:black;
             display: flex;
             justify-content: center;
 
 
             
             
-        }
+        } */
+
+
+
                 table, th, td {
                     border: 1px solid white;
                     color: Black;
