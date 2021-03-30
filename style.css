@@ -9,20 +9,20 @@ body{
 }
     #introDiv{
         background-image: url("images/congruent_pentagon.png");
-        width: 60%;
-        min-height: 70px;
-        margin-left: 10%;
-        margin-top: 5%;
+        width: 96%;
+        min-height: 30px;
+        margin-left: 2%;
+        margin-top: 2%;
 
         text-align: center;
-        padding-top: 15px;
+        padding-top: 5px;
         color:crimson;
-        font-size: 20px;
+        font-size:medium;
         font-family:cursive;
     }
 
 
-
+/* 
     #logoDiv{
         background-image: url("images/b164fe1b8c2dff94eda4c8c7a0c423cc.jpg");
         background-size: cover;
@@ -30,7 +30,7 @@ body{
         min-height: 70px;
         margin-top: 5%;
         margin-left: 5%;
-    }
+    } */
 
 #inputSection{
     display: flex;
