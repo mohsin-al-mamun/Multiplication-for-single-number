@@ -8,32 +8,43 @@ body{
 #container {
     width: 90%;
     margin-left: 5%;
-    background-color:none;
-    height: 95vh;
+    margin-top: 2%;
+    border-radius: 15px;
+    background-color:red;
+    min-height: 55vh;
     padding-top: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
     font-family:sans-serif;
     
 }
 
     #inputdiv{
-        min-width: 80%;
-        min-height:30%;
+        min-width: 90%;
+        min-height:40%;
+        border-radius: 10px;
         padding-top: 3px;
         padding-bottom: 10px;
         background-color: brown;
-        margin-left:5% ;
-        margin-right: 5%;
-        background-image: url('congruent_pentagon.png');
+        margin-left:2% ;
+        margin-right: 2%;
+        background-image: url('58745252-thin-yellow-fruits-vegetables-line-seamless-pattern-vector-website-design-and-tile-background-in-t.jpg');
         
         
     }   
 
 
                     #form p{
-                    color: #2f00ffe5;
+                    color: black;
                     text-align: center;
                     margin-bottom:3px;
                     font-size: 20px;
+                    }
+
+                    #form h2{
+                        color: #831111e5;
+                        text-align: center;
+                    
                     }
 
 
@@ -82,24 +93,26 @@ body{
                             
                         }
 #outputdiv{
-    min-width: 80%;
-    min-height:45%;
+    min-width: 90%;
+    min-height:55vh;
+    border-radius: 10px;
     background-color: brown;
-    margin-left:5% ;
-    margin-right: 5%;
-    margin-top: 3%;
-    padding-top:2%;
-    padding-bottom: 5%;
-    background-image: url("weather.png");
-    color:green;
+    margin-left:2% ;
+    margin-right: 2%;
+    margin-top: 1%;
+    padding-top:1%;
+    padding-bottom: 1%;
+    background-image: url("58745252-thin-yellow-fruits-vegetables-line-seamless-pattern-vector-website-design-and-tile-background-in-t.jpg");
+    color:black;
     
 }
 
 
             #outputdiv h3{
                 text-align: center;
-                padding-top: 10px;
+                padding-top: 5px;
                 color: red;
+                margin-bottom: 10px;
             
             }
 
