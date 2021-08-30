@@ -10,7 +10,7 @@ body{
     margin-left: 5%;
     margin-top: 2%;
     border-radius: 15px;
-    background-color:red;
+    background-color:#00ff7096;
     min-height: 55vh;
     padding-top: 2%;
     padding-bottom: 2%;
@@ -28,14 +28,14 @@ body{
         background-color: brown;
         margin-left:2% ;
         margin-right: 2%;
-        background-image: url('58745252-thin-yellow-fruits-vegetables-line-seamless-pattern-vector-website-design-and-tile-background-in-t.jpg');
+        background-image: url('congruent_pentagon.png');
         
         
     }   
 
 
                     #form p{
-                    color: black;
+                    color:red;
                     text-align: center;
                     margin-bottom:3px;
                     font-size: 20px;
@@ -102,8 +102,8 @@ body{
     margin-top: 1%;
     padding-top:1%;
     padding-bottom: 1%;
-    background-image: url("58745252-thin-yellow-fruits-vegetables-line-seamless-pattern-vector-website-design-and-tile-background-in-t.jpg");
-    color:black;
+    background-image: url("congruent_pentagon.png");
+    color:rgb(38, 0, 128);
     
 }
 
