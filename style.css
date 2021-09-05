@@ -6,28 +6,28 @@ body{
 }
 
 #container {
-    width: 90%;
-    margin-left: 5%;
-    margin-top: 2%;
-    border-radius: 15px;
+    width: 98%;
+    margin-left: 1%;
+    margin-top: 1%;
+    border-radius: 10px;
     background-color:#00ff7096;
     min-height: 55vh;
     padding-top: 2%;
     padding-bottom: 2%;
-    margin-bottom: 2%;
+    margin-bottom: 1%;
     font-family:sans-serif;
     
 }
 
     #inputdiv{
-        min-width: 90%;
+        min-width: 96%;
         min-height:40%;
-        border-radius: 10px;
+        border-radius: 15px;
         padding-top: 3px;
         padding-bottom: 10px;
-        background-color: brown;
-        margin-left:2% ;
-        margin-right: 2%;
+        /* background-color: brown; */
+        margin-left:1% ;
+        margin-right: 1%;
         background-image: url('congruent_pentagon.png');
         
         
@@ -93,12 +93,12 @@ body{
                             
                         }
 #outputdiv{
-    min-width: 90%;
+    min-width: 96%;
     min-height:55vh;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: brown;
-    margin-left:2% ;
-    margin-right: 2%;
+    margin-left:1% ;
+    margin-right: 1%;
     margin-top: 1%;
     padding-top:1%;
     padding-bottom: 1%;
